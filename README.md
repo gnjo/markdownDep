@@ -1,5 +1,5 @@
-# mdcode
-mdcode is develop on markdown 
+# markdownDep
+markdownDep is develop on markdown 
 
 ### draft
 index.html
@@ -16,5 +16,5 @@ save to localStorage.
 |[E]|key|filename[E]|description[E]|lines|updatetime|[DL]|  [UN]
 
 send to key;
-mdcode.html?key=mdcode.xyzeeee
+dep.html?key=mdcode.xyzeeee
 ```
