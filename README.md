@@ -1,6 +1,12 @@
 # markdownDep
 markdownDep is develop on markdown 
 
+### serialize
+```js
+ let el,el2;
+ [el,el2].map(d=>Object.create(d.dataset)).reduce((a,b)=>Object.assing(a,b),{})
+
+```
 ### draft
 index.html
 ```
